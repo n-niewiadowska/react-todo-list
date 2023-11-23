@@ -9,6 +9,8 @@ This is a simple React to-do list app developed by me to learn basics of React.
 
 The app is divided into three sections - types of tasks: urgent, daily and other tasks. User doesn't have to delete one when it's done, which is helpful especially with daily task. They can push *done!* button to cross it out, but it remains on the list. Delete button deletes added task completely.
 
+This project was bootstrapped with `create-react-app` and can be run with `npm start`.
+
 ### Learnings
 - functions
 - React
